@@ -19,3 +19,4 @@ console.log(checkNum(90));
 console.log(checkNum(0));
 console.log(checkNum(89));
 console.log(checkNum(11));
+
